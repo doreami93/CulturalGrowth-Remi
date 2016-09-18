@@ -296,7 +296,7 @@ p.separator {
 ================================================== */
 
 nav {
-	background: #131817;
+	background: transparent;
 	width: 100%;
 	position: relative;
 	z-index: 1000;
@@ -337,13 +337,13 @@ nav ul li {
 nav a {
 	font-family: 'novel', sans-serif;
 	font-size: 16px;
-	color: transparent;
+	color: #fff;
 	font-weight: normal;
 	text-decoration: none;
 }
 
 nav a:visited {
-	color: transparent;
+	color: #fff;
 }
 
 nav a:hover {
