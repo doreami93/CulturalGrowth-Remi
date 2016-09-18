@@ -297,6 +297,8 @@ p.separator {
 
 nav {
 	background: #4c4c4c;
+	visibility: visible; 
+	opacity: .5;
 	width: 100%;
 	position: relative;
 	z-index: 1000;
