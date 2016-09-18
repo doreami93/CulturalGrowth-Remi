@@ -296,7 +296,7 @@ p.separator {
 ================================================== */
 
 nav {
-	background: blue;
+	background: gray;
 	width: 100%;
 	position: relative;
 	z-index: 1000;
