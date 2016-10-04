@@ -432,11 +432,9 @@ nav ul li.active ul{visibility: visible; opacity: .9;}
 
 #intro .bg1 {
 	background: url(../images/landing-img-7.jpg) 0 0 repeat fixed;
-	background-size: 100% 1075px;
-	background-repeat: no-repeat;	
 	margin: 0 auto;
 	padding: 0;
-	position: auto;
+	position: absolute;
 	z-index: 100;
 	width: 100%;
 	height: 600px;
